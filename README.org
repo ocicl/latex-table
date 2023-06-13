@@ -1,0 +1,10 @@
+* latex-table
+
+Pretty latex tables from Lisp matrices and vectors.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tpapp/latex-table.git   |
+| commit  | bd2d193  |
+| systems | latex-table |
+|---------+-------------------------------------------|
+
